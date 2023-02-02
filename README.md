@@ -15,7 +15,7 @@ the symbol table in order to trace the information required in those checks.
 
 In the subject Data Structures and Algorithms (DSA) at HCMUT in Semester 211. Students are required to build a symbol table with language C++ with OOP architecture.
 
-This repo is the soulution of author for this assignment. More specifications of each assignment will be found in each folder.
+This repo is the solution of author for this assignment. More specifications of each assignment will be found in each folder.
 
 * **Assignment 1**: Using data structure Linked List.
 
