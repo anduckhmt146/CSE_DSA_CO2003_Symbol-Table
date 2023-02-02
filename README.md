@@ -34,12 +34,21 @@ This repo is the soulution of author for this assignment. More specifications of
 
 You can test this data structure with some following testcases, more details will be found in the specifications of each assignment.
 
+* Input:
+
 ```bash
 
 INSERT x number
 INSERT y string
 ASSIGN x 15
-ASSIGN y "Hello World"
+ASSIGN y 46
+
+```
+* Output:
+
+```bash
+
+TypeMismatch: ASSIGN y 46
 
 ```
 
