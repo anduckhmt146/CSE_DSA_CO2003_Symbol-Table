@@ -39,7 +39,7 @@ You can test this data structure with some following testcases, more details wil
 INSERT x number
 INSERT y string
 ASSIGN x 15
-ASSIGN y 76
+ASSIGN y "Hello World"
 
 ```
 
