@@ -32,7 +32,7 @@ This repo is the solution of author for this assignment. More specifications of 
 
 # Testing
 
-You can test this data structure with some following testcases, more details will be found in the specifications of each assignment.
+You can test this data structure with some following testcases, more details can be found in the specifications of each assignment.
 
 * Input:
 
